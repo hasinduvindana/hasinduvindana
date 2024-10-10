@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="center">
-  <img alt="Coder GIF" height="500" width="700" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+  <img alt="Coder GIF" height="400" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 <br>
 
