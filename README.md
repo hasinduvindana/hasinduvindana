@@ -5,7 +5,9 @@
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0hVrWfKFtJMAnYf9i4Baf5&ust=1728626307977000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCz4PiQg4kDFQAAAAAdAAAAABAK" alt="developer gif" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasinduvindana&label=Profile%20views&color=0e75b6&style=flat" alt="hasinduvindana" /> </p>
+<p align="center"> 
+  <img src="https://your-image-hosting-site.com/path-to-your-gif.gif" alt="developer gif" />
+</p>
 
 - 🔭 I’m currently working on [Quick Job Micro Job Platform](https://github.com/hasinduvindana/Quick-Job-Micro-Job-Finding-platform)
 
