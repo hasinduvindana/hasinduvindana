@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasinduvindana&label=Profile%20views&color=0e75b6&style=flat" alt="hasinduvindana" /> </p>
 
 
-- 🔭 I’m currently working on [Quick Job Micro Job Platform](https://github.com/hasinduvindana/Quick-Job-Micro-Job-Finding-platform)
+- 🔭 I’m currently working on [Pearl Transit Tours](https://github.com/hasinduvindana/Pearl-Transit-Tours)
 
-- 🌱 I’m currently learning **Next.js , React Native**
+- 🌱 I’m currently learning **Next.js , React Native , Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasinduvindana](https://github.com/hasinduvindana)
 
