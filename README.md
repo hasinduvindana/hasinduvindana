@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 **GitHub Analytics (Animated + Working)**
+### 📊 **GitHub Analytics**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hasinduvindana&show_icons=true&theme=radical&hide_border=true&count_private=true" />
