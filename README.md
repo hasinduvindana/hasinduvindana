@@ -11,8 +11,8 @@
 
 ### 🚀 **About Me**
 
-- 🔭 Working on **Pearl Transit Tours**
-- 🌱 Learning **Next.js, React Native & Figma**
+- 🔭 Working on **VentureVault**
+- 🌱 Learning **Next.js, Flutter & Figma**
 - 💬 Ask me about **Java**
 - 📫 Contact me at **hasinduvindana@gmail.com**
 
